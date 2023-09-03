@@ -1,0 +1,2 @@
+# Permissions-Policy header
+Permissions-Policy: geolocation=(self "https://pranav-2812.github.io/CW/"), camera=()
